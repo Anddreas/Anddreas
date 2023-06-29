@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anddreas
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning C++ and Qt framework
+- 🌱 I’m currently learning Python and Django Rest framework
 - 📫 How to reach me @andriashovhannes@gmail.com
 
 <!---
