@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @Anddreas
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Python and Django Rest framework
+- 👋 Hi, I’m Hovhannes
+- 👨‍🎓 Intermediate knowledge of C
+- 👌 Good Proficiency with Git 
+- 👀 Good understading of Unix
+- 👨🏻‍💻 Knowledge of computer hardware.
+- 🐍 I’m currently learning Python and Django Rest framework
+- 🇬🇧 English, Professional working proficiency.
+- 🇦🇲 Native Armenian.
+- 🏁 Able to self-educate
 - 📫 How to reach me @andriashovhannes@gmail.com
 
 <!---
