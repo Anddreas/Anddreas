@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Hovhannes
 - 👨‍🎓 Intermediate knowledge of C and C++
 - 👌 Good Proficiency with Git 
-- 👀 Good understading of Unix
+- 👀 Good understanding of Unix
 - 👨🏻‍💻 Knowledge of computer hardware.
 - 🐍 I’m currently learning Python with Django Rest framework
 - 🇬🇧 English, Competent working proficiency.
