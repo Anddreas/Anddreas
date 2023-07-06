@@ -2,7 +2,7 @@
 - 👌 Good Proficiency with Git 
 - 👀 Good understanding of Unix
 - 👨🏻‍💻 Knowledge of computer hardware.
-- 🐍 I’m currently learning Python with Django Rest framework
+- 🐍 I’m currently learning Python with Django framework
 - 🇬🇧 English, Competent working proficiency.
 - 🇦🇲 Native Armenian.
 - 🏁 Able to self-educate
